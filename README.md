@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/srijon-karmakar" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
 <a href="https://fb.com/srijonkarmakar2001" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40">
-<a href="https://www.codechef.com/users/srijonkarmakar" target="blank"><img src="![image](https://github.com/user-attachments/assets/2321cb6a-1ead-44b7-821e-920858e50e1f)
+<a href="https://www.codechef.com/users/srijonkarmakar" target="blank"><img src="https://github.com/user-attachments/assets/2321cb6a-1ead-44b7-821e-920858e50e1f
 " alt="srijonkarmakar" width="40" /></a>
 </p>
 
