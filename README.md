@@ -27,4 +27,4 @@
 <img src="https://widgetbite.com/stats/srijon-karmakar" alt="watching_count" />
 <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="120" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijon-karmakar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/><a href="https://readme-jokes.vercel.app"><img align="right" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=srijon-karmakar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
