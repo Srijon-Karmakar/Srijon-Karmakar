@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/srijon-karmakar" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
-<a href="https://fb.com/srijonkarmakar2001" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40">
-<a href="https://www.codechef.com/users/srijonkarmakar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srijonkarmakar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srijon-karmakar" target="blank">LinkdIn<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
+<a href="https://fb.com/srijonkarmakar2001" target="blank">Facebook<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40">
+<a href="https://www.codechef.com/users/srijonkarmakar" target="blank">Codechef<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srijonkarmakar" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
