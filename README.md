@@ -2,6 +2,8 @@
 <h3 align="center">A passionate computer science engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijon-karmakar&label=Profile%20views&color=0e75b6&style=flat" alt="srijon-karmakar" /> </p>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
+
 
 - 🔭 I’m currently working on **Code Editor**
 
