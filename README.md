@@ -19,7 +19,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/srijon-karmakar" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="40">
 <a href="https://fb.com/srijonkarmakar2001" target="blank"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="40">
-<a href="https://www.codechef.com/users/srijonkarmakar" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPulkitMalhotra161001%2FPulkitMalhotra161001&psig=AOvVaw1F7NavgGHQ6hxxiQke6sRZ&ust=1725213895385000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiK1OHon4gDFQAAAAAdAAAAABAE" alt="srijonkarmakar" width="40" /></a>
+<a href="https://www.codechef.com/users/srijonkarmakar" target="blank"><img src="![image](https://github.com/user-attachments/assets/2321cb6a-1ead-44b7-821e-920858e50e1f)
+" alt="srijonkarmakar" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
