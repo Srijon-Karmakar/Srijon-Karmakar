@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srijon-karmakar&label=Profile%20views&color=0e75b6&style=flat" alt="srijon-karmakar" /> </p>
-<img allign="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
 - 🔭 I’m currently working on **Code Editor**
 
